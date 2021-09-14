@@ -1,0 +1,12 @@
+{"ART": 0, "NN": 1, "V": 2, "NUM": 3, "ADV": 4, "PP": 5}
+
+O gato comeu o queijo, ["ART", "NN", "V", "ART", "NN"]
+Ela leu aquele livro, ["NN", "V", "ART", "NN"]
+O cachorro ama arte, ["ART", "NN", "V", "NN"]
+O elefante atende o telefone, ["ART", "NN", "V", "ART", "NN"]
+O rapaz precisa de um gato, ["ART", "NN", "V", "PP", "ART", "NN"]
+O rapaz mora com uma amiga, ["ART", "NN", "V", "PP", "ART", "NN"]
+O garoto pegou um item, ["ART", "NN", "V", "ART", "NN"]
+A garota pegou somente um item, ["ART", "NN", "V", "ADV", "NUM", "NN"]
+O garoto pegou mais de um item, ["ART", "NN", "V", "ADV", "PP", "NUM", "NN"]
+A garota falou com mais de uma pessoa, ["ART", "NN", "V", "PP", "ADV", "PP", "NUM", "NN"]
